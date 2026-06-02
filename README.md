@@ -196,24 +196,3 @@ O projeto inclui um backtest simples comparando a estratégia do agente com Buy 
 > Resultados variam conforme o período analisado.
 
 ---
-
-## 🎓 Apresentação na FIAP — Dicas
-
-1. **Demonstre ao vivo**: rode `main.py` e mostre o agente gerando uma recomendação em tempo real
-2. **Destaque a arquitetura Multi-Agent**: explique como cada agente tem uma responsabilidade única
-3. **Mostre os gráficos**: o notebook tem visualizações interativas com Plotly
-4. **Fale sobre o ReAct**: explique como o agente pensa antes de agir (Reasoning + Acting)
-5. **Critique o projeto**: mostre que você entende as limitações (dados gratuitos, sem execução real de ordens)
-
----
-
-## ⚠️ Aviso Legal
-
-Este projeto é **exclusivamente acadêmico**. As recomendações geradas **não constituem aconselhamento financeiro**. Não use para tomar decisões reais de investimento.
-
----
-
-## 👨‍💻 Desenvolvido por
-
-Aluno FIAP — Pós Tech AI for Devs  
-Projeto: AI Agents para o Mercado Financeiro
