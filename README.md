@@ -215,5 +215,5 @@ Este projeto é **exclusivamente acadêmico**. As recomendações geradas **não
 
 ## 👨‍💻 Desenvolvido por
 
-Aluno FIAP — Pós Tech AI for Devs  
+Raul Tavares Ramos
 Projeto: AI Agents para o Mercado Financeiro
