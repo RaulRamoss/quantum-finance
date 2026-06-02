@@ -1,0 +1,41 @@
+{
+    "ticker": "ITUB4",
+    "recommendation": "AGUARDAR",
+    "confidence": 0.08,
+    "confidence_label": "MUITO BAIXA",
+    "reasoning": "Análise de ITUB4: RSI em 40.0 (FRACO (tendência de baixa)); MACD BULLISH; TENDÊNCIA DE BAIXA (preço abaixo de SMA20 e SMA50); PREÇO ABAIXO DA BANDA CENTRAL (levemente pessimista); notícias positivo (1/2 positivas, 50%). Os sinais estão mistos ou inconclusivos. Recomenda-se AGUARDAR uma definição mais clara da tendência antes de agir.",
+    "score_tecnico": 0.0,
+    "score_sentimento": 0.126,
+    "score_final": 0.038,
+    "sentiment_label": "POSITIVO",
+    "sentiment_score": 0.126,
+    "indicators": {
+        "RSI": 39.95,
+        "RSI_interpretacao": "FRACO (tendência de baixa)",
+        "MACD": "BULLISH (MACD acima do Signal - sinal de compra)",
+        "Medias_Moveis": "TENDÊNCIA DE BAIXA (preço abaixo de SMA20 e SMA50)",
+        "Bollinger": "PREÇO ABAIXO DA BANDA CENTRAL (levemente pessimista)",
+        "Volume": "BAIXO (pouco interesse, movimento fraco)",
+        "Preco_Atual": 39.56,
+        "SMA_20": 40.04,
+        "SMA_50": 42.42
+    },
+    "news_summary": {
+        "total": 2,
+        "positivas": 1,
+        "negativas": 1,
+        "neutras": 0
+    },
+    "detalhes_votacao": [
+        "RSI (40.0): NEUTRO — zona intermediária",
+        "MACD: COMPRA — BULLISH (MACD acima do Signal - sinal de compra)",
+        "Médias: VENDA — TENDÊNCIA DE BAIXA (preço abaixo de SMA20 e SMA50)",
+        "Bollinger: NEUTRO — PREÇO ABAIXO DA BANDA CENTRAL (levemente pessimista)",
+        "Volume: NEUTRO — BAIXO (pouco interesse, movimento fraco)"
+    ],
+    "timestamp": "2026-06-02T17:59:34.012370",
+    "tendencia_tecnica": "LATERAL/NEUTRO",
+    "resumo_news": "Análise de 2 notícias sobre ITUB4: sentimento geral POSITIVO (score: +0.126). Notícia mais impactante: 'Itaú Unibanco supera expectativas com resultado do 3T...'",
+    "resumo_tecnico": "Análise técnica de ITUB4: preço R$ 39.56, RSI 40.0, tendência LATERAL/NEUTRO. MACD: BULLISH (MACD acima do Signal - sinal de compra).",
+    "relatorio_explicavel": "\nRELATÓRIO DE ANÁLISE — ITUB4\nGerado em: 02/06/2026 às 17:59\n──────────────────────────────────────────────────\n\nO QUE ACONTECEU NO MERCADO:\nO ativo ITUB4 foi analisado com base em dados de mercado dos últimos 6 meses\ne notícias coletadas em tempo real dos principais portais financeiros.\n\nANÁLISE TÉCNICA:\nA tendência identificada pelos indicadores técnicos é LATERAL/NEUTRO.\n\nO RSI (Índice de Força Relativa) está em 40.0, indicando\nFRACO (tendência de baixa).\n\nO MACD apresenta comportamento BULLISH (MACD acima do Signal - sinal de compra), sugerindo\nmomentum de alta.\n\nAs médias móveis mostram: TENDÊNCIA DE BAIXA (preço abaixo de SMA20 e SMA50).\n\nANÁLISE DE NOTÍCIAS:\nForam analisadas 2 notícias recentes.\nO sentimento geral foi POSITIVO\n(score: +0.126).\n\nPRINCIPAIS NOTÍCIAS QUE INFLUENCIARAM A ANÁLISE:\n  1. [POSITIVO] Itaú Unibanco supera expectativas com resultado do 3T\n  2. [NEGATIVO] Itaú apresenta crescimento em carteira de crédito\n\nPOR QUE A RECOMENDAÇÃO FOI AGUARDAR:\nAnálise de ITUB4: RSI em 40.0 (FRACO (tendência de baixa)); MACD BULLISH; TENDÊNCIA DE BAIXA (preço abaixo de SMA20 e SMA50); PREÇO ABAIXO DA BANDA CENTRAL (levemente pessimista); notícias positivo (1/2 positivas, 50%). Os sinais estão mistos ou inconclusivos. Recomenda-se AGUARDAR uma definição mais clara da tendência antes de agir.\n\nNÍVEL DE CONFIANÇA: 8% (MUITO BAIXA)\n\nVOTOS DOS INDICADORES:\n  • RSI (40.0): NEUTRO — zona intermediária\n  • MACD: COMPRA — BULLISH (MACD acima do Signal - sinal de compra)\n  • Médias: VENDA — TENDÊNCIA DE BAIXA (preço abaixo de SMA20 e SMA50)\n  • Bollinger: NEUTRO — PREÇO ABAIXO DA BANDA CENTRAL (levemente pessimista)\n  • Volume: NEUTRO — BAIXO (pouco interesse, movimento fraco)\n\nAVISO: Esta análise é meramente acadêmica e não constitui\nconselho de investimento. Sempre consulte um profissional\ncertificado antes de tomar decisões financeiras.\n──────────────────────────────────────────────────\n"
+}

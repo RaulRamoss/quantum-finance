@@ -1,0 +1,33 @@
+{
+  "ticker": "ITUB4",
+  "recommendation": "AGUARDAR",
+  "confidence": 0.12,
+  "reasoning": "Analise de ITUB4: RSI em 40.0 (NEUTRO (entre 30 e 70)), MACD BULLISH - MACD acima do Signal, TENDENCIA DE BAIXA, noticias positivo (1 analisadas). Sinais mistos, melhor AGUARDAR.",
+  "score_final": 0.061,
+  "sentiment_score": 0.202,
+  "sentiment_label": "POSITIVO",
+  "indicators": {
+    "RSI": 39.95,
+    "RSI_interpretacao": "NEUTRO (entre 30 e 70)",
+    "MACD": "BULLISH - MACD acima do Signal",
+    "Medias_Moveis": "TENDENCIA DE BAIXA",
+    "Bollinger": "PRECO DENTRO DAS BANDAS",
+    "Volume": "BAIXO (pouco interesse)",
+    "Preco_Atual": 39.56,
+    "SMA_20": 40.04,
+    "SMA_50": 42.42
+  },
+  "news_summary": {
+    "total": 1,
+    "positivas": 1,
+    "negativas": 0
+  },
+  "detalhes_votacao": [
+    "RSI (40.0): NEUTRO",
+    "MACD: COMPRA",
+    "Medias: VENDA",
+    "Bollinger: NEUTRO"
+  ],
+  "timestamp": "2026-06-02T18:33:55.555765",
+  "tendencia_tecnica": "ALTISTA"
+}

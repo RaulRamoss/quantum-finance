@@ -1,0 +1,41 @@
+{
+    "ticker": "PETR4",
+    "recommendation": "VENDER",
+    "confidence": 0.68,
+    "confidence_label": "ALTA",
+    "reasoning": "Análise de PETR4: RSI em 35.1 (FRACO (tendência de baixa)); MACD BEARISH; TENDÊNCIA DE BAIXA (preço abaixo de SMA20 e SMA50); PREÇO ABAIXO DA BANDA CENTRAL (levemente pessimista); notícias negativo (0/3 positivas, 0%). Os indicadores sugerem pressão vendedora. Recomenda-se considerar VENDA ou redução de posição.",
+    "score_tecnico": -0.444,
+    "score_sentimento": -0.099,
+    "score_final": -0.341,
+    "sentiment_label": "NEGATIVO",
+    "sentiment_score": -0.099,
+    "indicators": {
+        "RSI": 35.06,
+        "RSI_interpretacao": "FRACO (tendência de baixa)",
+        "MACD": "BEARISH (MACD abaixo do Signal - sinal de venda)",
+        "Medias_Moveis": "TENDÊNCIA DE BAIXA (preço abaixo de SMA20 e SMA50)",
+        "Bollinger": "PREÇO ABAIXO DA BANDA CENTRAL (levemente pessimista)",
+        "Volume": "BAIXO (pouco interesse, movimento fraco)",
+        "Preco_Atual": 41.57,
+        "SMA_20": 43.85,
+        "SMA_50": 45.56
+    },
+    "news_summary": {
+        "total": 3,
+        "positivas": 0,
+        "negativas": 1,
+        "neutras": 2
+    },
+    "detalhes_votacao": [
+        "RSI (35.1): NEUTRO — zona intermediária",
+        "MACD: VENDA — BEARISH (MACD abaixo do Signal - sinal de venda)",
+        "Médias: VENDA — TENDÊNCIA DE BAIXA (preço abaixo de SMA20 e SMA50)",
+        "Bollinger: NEUTRO — PREÇO ABAIXO DA BANDA CENTRAL (levemente pessimista)",
+        "Volume: NEUTRO — BAIXO (pouco interesse, movimento fraco)"
+    ],
+    "timestamp": "2026-06-02T17:59:31.513121",
+    "tendencia_tecnica": "BAIXISTA",
+    "resumo_news": "Análise de 3 notícias sobre PETR4: sentimento geral NEGATIVO (score: -0.099). Notícia mais impactante: 'Petrobras eleva estimativa de produção para o próximo ano...'",
+    "resumo_tecnico": "Análise técnica de PETR4: preço R$ 41.57, RSI 35.1, tendência BAIXISTA. MACD: BEARISH (MACD abaixo do Signal - sinal de venda).",
+    "relatorio_explicavel": "\nRELATÓRIO DE ANÁLISE — PETR4\nGerado em: 02/06/2026 às 17:59\n──────────────────────────────────────────────────\n\nO QUE ACONTECEU NO MERCADO:\nO ativo PETR4 foi analisado com base em dados de mercado dos últimos 6 meses\ne notícias coletadas em tempo real dos principais portais financeiros.\n\nANÁLISE TÉCNICA:\nA tendência identificada pelos indicadores técnicos é BAIXISTA.\n\nO RSI (Índice de Força Relativa) está em 35.1, indicando\nFRACO (tendência de baixa).\n\nO MACD apresenta comportamento BEARISH (MACD abaixo do Signal - sinal de venda), sugerindo\npressão vendedora.\n\nAs médias móveis mostram: TENDÊNCIA DE BAIXA (preço abaixo de SMA20 e SMA50).\n\nANÁLISE DE NOTÍCIAS:\nForam analisadas 3 notícias recentes.\nO sentimento geral foi NEGATIVO\n(score: -0.099).\n\nPRINCIPAIS NOTÍCIAS QUE INFLUENCIARAM A ANÁLISE:\n  1. [NEGATIVO] Petrobras eleva estimativa de produção para o próximo ano\n  2. [NEUTRO] Variação do câmbio afeta resultados da Petrobras\n  3. [NEUTRO] Petrobras investe em energia renovável como diversificação\n\nPOR QUE A RECOMENDAÇÃO FOI VENDER:\nAnálise de PETR4: RSI em 35.1 (FRACO (tendência de baixa)); MACD BEARISH; TENDÊNCIA DE BAIXA (preço abaixo de SMA20 e SMA50); PREÇO ABAIXO DA BANDA CENTRAL (levemente pessimista); notícias negativo (0/3 positivas, 0%). Os indicadores sugerem pressão vendedora. Recomenda-se considerar VENDA ou redução de posição.\n\nNÍVEL DE CONFIANÇA: 68% (ALTA)\n\nVOTOS DOS INDICADORES:\n  • RSI (35.1): NEUTRO — zona intermediária\n  • MACD: VENDA — BEARISH (MACD abaixo do Signal - sinal de venda)\n  • Médias: VENDA — TENDÊNCIA DE BAIXA (preço abaixo de SMA20 e SMA50)\n  • Bollinger: NEUTRO — PREÇO ABAIXO DA BANDA CENTRAL (levemente pessimista)\n  • Volume: NEUTRO — BAIXO (pouco interesse, movimento fraco)\n\nAVISO: Esta análise é meramente acadêmica e não constitui\nconselho de investimento. Sempre consulte um profissional\ncertificado antes de tomar decisões financeiras.\n──────────────────────────────────────────────────\n"
+}

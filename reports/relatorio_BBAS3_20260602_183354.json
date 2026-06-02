@@ -1,0 +1,33 @@
+{
+  "ticker": "BBAS3",
+  "recommendation": "COMPRAR",
+  "confidence": 0.77,
+  "reasoning": "Analise de BBAS3: RSI em 32.3 (NEUTRO (entre 30 e 70)), MACD BULLISH - MACD acima do Signal, TENDENCIA DE BAIXA, noticias positivo (1 analisadas). Indicadores favoraveis para COMPRA.",
+  "score_final": 0.385,
+  "sentiment_score": 0.7,
+  "sentiment_label": "POSITIVO",
+  "indicators": {
+    "RSI": 32.32,
+    "RSI_interpretacao": "NEUTRO (entre 30 e 70)",
+    "MACD": "BULLISH - MACD acima do Signal",
+    "Medias_Moveis": "TENDENCIA DE BAIXA",
+    "Bollinger": "PRECO DENTRO DAS BANDAS",
+    "Volume": "BAIXO (pouco interesse)",
+    "Preco_Atual": 19.89,
+    "SMA_20": 20.78,
+    "SMA_50": 22.28
+  },
+  "news_summary": {
+    "total": 1,
+    "positivas": 1,
+    "negativas": 0
+  },
+  "detalhes_votacao": [
+    "RSI (32.3): COMPRA - sobrevendido",
+    "MACD: COMPRA",
+    "Medias: VENDA",
+    "Bollinger: NEUTRO"
+  ],
+  "timestamp": "2026-06-02T18:33:54.825364",
+  "tendencia_tecnica": "ALTISTA"
+}

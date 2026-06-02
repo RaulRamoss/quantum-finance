@@ -1,0 +1,41 @@
+{
+    "ticker": "VALE3",
+    "recommendation": "AGUARDAR",
+    "confidence": 0.23,
+    "confidence_label": "BAIXA",
+    "reasoning": "Análise de VALE3: RSI em 56.5 (NEUTRO (sem tendência clara)); MACD BULLISH; CRUZAMENTO BAIXISTA (SMA20 cruzou abaixo da SMA50 - Death Cross); PREÇO ACIMA DA BANDA CENTRAL (levemente otimista); notícias positivo (1/2 positivas, 50%). Os sinais estão mistos ou inconclusivos. Recomenda-se AGUARDAR uma definição mais clara da tendência antes de agir.",
+    "score_tecnico": 0.0,
+    "score_sentimento": 0.379,
+    "score_final": 0.114,
+    "sentiment_label": "POSITIVO",
+    "sentiment_score": 0.379,
+    "indicators": {
+        "RSI": 56.49,
+        "RSI_interpretacao": "NEUTRO (sem tendência clara)",
+        "MACD": "BULLISH (MACD acima do Signal - sinal de compra)",
+        "Medias_Moveis": "CRUZAMENTO BAIXISTA (SMA20 cruzou abaixo da SMA50 - Death Cross)",
+        "Bollinger": "PREÇO ACIMA DA BANDA CENTRAL (levemente otimista)",
+        "Volume": "NORMAL (volume dentro do esperado)",
+        "Preco_Atual": 85.0,
+        "SMA_20": 82.68,
+        "SMA_50": 83.0
+    },
+    "news_summary": {
+        "total": 2,
+        "positivas": 1,
+        "negativas": 0,
+        "neutras": 1
+    },
+    "detalhes_votacao": [
+        "RSI (56.5): NEUTRO — zona intermediária",
+        "MACD: COMPRA — BULLISH (MACD acima do Signal - sinal de compra)",
+        "Médias: VENDA — CRUZAMENTO BAIXISTA (SMA20 cruzou abaixo da SMA50 - Death Cross)",
+        "Bollinger: NEUTRO — PREÇO ACIMA DA BANDA CENTRAL (levemente otimista)",
+        "Volume: NEUTRO — NORMAL (volume dentro do esperado)"
+    ],
+    "timestamp": "2026-06-02T17:59:30.170500",
+    "tendencia_tecnica": "LATERAL/NEUTRO",
+    "resumo_news": "Análise de 2 notícias sobre VALE3: sentimento geral POSITIVO (score: +0.379). Notícia mais impactante: 'Ibovespa retoma 174 mil pontos com alta de Vale (VALE3) e re...'",
+    "resumo_tecnico": "Análise técnica de VALE3: preço R$ 85.00, RSI 56.5, tendência LATERAL/NEUTRO. MACD: BULLISH (MACD acima do Signal - sinal de compra).",
+    "relatorio_explicavel": "\nRELATÓRIO DE ANÁLISE — VALE3\nGerado em: 02/06/2026 às 17:59\n──────────────────────────────────────────────────\n\nO QUE ACONTECEU NO MERCADO:\nO ativo VALE3 foi analisado com base em dados de mercado dos últimos 6 meses\ne notícias coletadas em tempo real dos principais portais financeiros.\n\nANÁLISE TÉCNICA:\nA tendência identificada pelos indicadores técnicos é LATERAL/NEUTRO.\n\nO RSI (Índice de Força Relativa) está em 56.5, indicando\nNEUTRO (sem tendência clara).\n\nO MACD apresenta comportamento BULLISH (MACD acima do Signal - sinal de compra), sugerindo\nmomentum de alta.\n\nAs médias móveis mostram: CRUZAMENTO BAIXISTA (SMA20 cruzou abaixo da SMA50 - Death Cross).\n\nANÁLISE DE NOTÍCIAS:\nForam analisadas 2 notícias recentes.\nO sentimento geral foi POSITIVO\n(score: +0.379).\n\nPRINCIPAIS NOTÍCIAS QUE INFLUENCIARAM A ANÁLISE:\n  1. [POSITIVO] Ibovespa retoma 174 mil pontos com alta de Vale (VALE3) e recordes em \n  2. [NEUTRO] Ibovespa volta a subir após cinco quedas, mesmo com novo tarifaço; Val\n\nPOR QUE A RECOMENDAÇÃO FOI AGUARDAR:\nAnálise de VALE3: RSI em 56.5 (NEUTRO (sem tendência clara)); MACD BULLISH; CRUZAMENTO BAIXISTA (SMA20 cruzou abaixo da SMA50 - Death Cross); PREÇO ACIMA DA BANDA CENTRAL (levemente otimista); notícias positivo (1/2 positivas, 50%). Os sinais estão mistos ou inconclusivos. Recomenda-se AGUARDAR uma definição mais clara da tendência antes de agir.\n\nNÍVEL DE CONFIANÇA: 23% (BAIXA)\n\nVOTOS DOS INDICADORES:\n  • RSI (56.5): NEUTRO — zona intermediária\n  • MACD: COMPRA — BULLISH (MACD acima do Signal - sinal de compra)\n  • Médias: VENDA — CRUZAMENTO BAIXISTA (SMA20 cruzou abaixo da SMA50 - Death Cross)\n  • Bollinger: NEUTRO — PREÇO ACIMA DA BANDA CENTRAL (levemente otimista)\n  • Volume: NEUTRO — NORMAL (volume dentro do esperado)\n\nAVISO: Esta análise é meramente acadêmica e não constitui\nconselho de investimento. Sempre consulte um profissional\ncertificado antes de tomar decisões financeiras.\n──────────────────────────────────────────────────\n"
+}

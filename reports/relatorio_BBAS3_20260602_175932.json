@@ -1,0 +1,41 @@
+{
+    "ticker": "BBAS3",
+    "recommendation": "COMPRAR",
+    "confidence": 0.33,
+    "confidence_label": "BAIXA",
+    "reasoning": "Análise de BBAS3: RSI em 32.3 (FRACO (tendência de baixa)); MACD BULLISH; TENDÊNCIA DE BAIXA (preço abaixo de SMA20 e SMA50); PREÇO ABAIXO DA BANDA CENTRAL (levemente pessimista); notícias neutro (1/2 positivas, 50%). O conjunto dos indicadores aponta para um cenário favorável de COMPRA, com confirmação pelo sentimento neutro das notícias recentes.",
+    "score_tecnico": 0.222,
+    "score_sentimento": 0.038,
+    "score_final": 0.167,
+    "sentiment_label": "NEUTRO",
+    "sentiment_score": 0.038,
+    "indicators": {
+        "RSI": 32.32,
+        "RSI_interpretacao": "FRACO (tendência de baixa)",
+        "MACD": "BULLISH (MACD acima do Signal - sinal de compra)",
+        "Medias_Moveis": "TENDÊNCIA DE BAIXA (preço abaixo de SMA20 e SMA50)",
+        "Bollinger": "PREÇO ABAIXO DA BANDA CENTRAL (levemente pessimista)",
+        "Volume": "BAIXO (pouco interesse, movimento fraco)",
+        "Preco_Atual": 19.89,
+        "SMA_20": 20.78,
+        "SMA_50": 22.28
+    },
+    "news_summary": {
+        "total": 2,
+        "positivas": 1,
+        "negativas": 0,
+        "neutras": 1
+    },
+    "detalhes_votacao": [
+        "RSI (32.3): COMPRA — ação sobrevendida",
+        "MACD: COMPRA — BULLISH (MACD acima do Signal - sinal de compra)",
+        "Médias: VENDA — TENDÊNCIA DE BAIXA (preço abaixo de SMA20 e SMA50)",
+        "Bollinger: NEUTRO — PREÇO ABAIXO DA BANDA CENTRAL (levemente pessimista)",
+        "Volume: NEUTRO — BAIXO (pouco interesse, movimento fraco)"
+    ],
+    "timestamp": "2026-06-02T17:59:32.803975",
+    "tendencia_tecnica": "LATERAL/NEUTRO",
+    "resumo_news": "Análise de 2 notícias sobre BBAS3: sentimento geral NEUTRO (score: +0.038). Notícia mais impactante: 'Banco do Brasil registra lucro recorde no trimestre...'",
+    "resumo_tecnico": "Análise técnica de BBAS3: preço R$ 19.89, RSI 32.3, tendência LATERAL/NEUTRO. MACD: BULLISH (MACD acima do Signal - sinal de compra).",
+    "relatorio_explicavel": "\nRELATÓRIO DE ANÁLISE — BBAS3\nGerado em: 02/06/2026 às 17:59\n──────────────────────────────────────────────────\n\nO QUE ACONTECEU NO MERCADO:\nO ativo BBAS3 foi analisado com base em dados de mercado dos últimos 6 meses\ne notícias coletadas em tempo real dos principais portais financeiros.\n\nANÁLISE TÉCNICA:\nA tendência identificada pelos indicadores técnicos é LATERAL/NEUTRO.\n\nO RSI (Índice de Força Relativa) está em 32.3, indicando\nFRACO (tendência de baixa).\n\nO MACD apresenta comportamento BULLISH (MACD acima do Signal - sinal de compra), sugerindo\nmomentum de alta.\n\nAs médias móveis mostram: TENDÊNCIA DE BAIXA (preço abaixo de SMA20 e SMA50).\n\nANÁLISE DE NOTÍCIAS:\nForam analisadas 2 notícias recentes.\nO sentimento geral foi NEUTRO\n(score: +0.038).\n\nPRINCIPAIS NOTÍCIAS QUE INFLUENCIARAM A ANÁLISE:\n  1. [POSITIVO] Banco do Brasil registra lucro recorde no trimestre\n  2. [NEUTRO] BB amplia crédito para o agronegócio\n\nPOR QUE A RECOMENDAÇÃO FOI COMPRAR:\nAnálise de BBAS3: RSI em 32.3 (FRACO (tendência de baixa)); MACD BULLISH; TENDÊNCIA DE BAIXA (preço abaixo de SMA20 e SMA50); PREÇO ABAIXO DA BANDA CENTRAL (levemente pessimista); notícias neutro (1/2 positivas, 50%). O conjunto dos indicadores aponta para um cenário favorável de COMPRA, com confirmação pelo sentimento neutro das notícias recentes.\n\nNÍVEL DE CONFIANÇA: 33% (BAIXA)\n\nVOTOS DOS INDICADORES:\n  • RSI (32.3): COMPRA — ação sobrevendida\n  • MACD: COMPRA — BULLISH (MACD acima do Signal - sinal de compra)\n  • Médias: VENDA — TENDÊNCIA DE BAIXA (preço abaixo de SMA20 e SMA50)\n  • Bollinger: NEUTRO — PREÇO ABAIXO DA BANDA CENTRAL (levemente pessimista)\n  • Volume: NEUTRO — BAIXO (pouco interesse, movimento fraco)\n\nAVISO: Esta análise é meramente acadêmica e não constitui\nconselho de investimento. Sempre consulte um profissional\ncertificado antes de tomar decisões financeiras.\n──────────────────────────────────────────────────\n"
+}

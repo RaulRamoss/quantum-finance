@@ -1,0 +1,33 @@
+{
+  "ticker": "PETR4",
+  "recommendation": "VENDER",
+  "confidence": 0.79,
+  "reasoning": "Analise de PETR4: RSI em 35.1 (NEUTRO (entre 30 e 70)), MACD BEARISH - MACD abaixo do Signal, TENDENCIA DE BAIXA, noticias negativo (2 analisadas). Indicadores sugerem pressao de VENDA.",
+  "score_final": -0.394,
+  "sentiment_score": -0.148,
+  "sentiment_label": "NEGATIVO",
+  "indicators": {
+    "RSI": 35.06,
+    "RSI_interpretacao": "NEUTRO (entre 30 e 70)",
+    "MACD": "BEARISH - MACD abaixo do Signal",
+    "Medias_Moveis": "TENDENCIA DE BAIXA",
+    "Bollinger": "PRECO DENTRO DAS BANDAS",
+    "Volume": "BAIXO (pouco interesse)",
+    "Preco_Atual": 41.57,
+    "SMA_20": 43.85,
+    "SMA_50": 45.56
+  },
+  "news_summary": {
+    "total": 2,
+    "positivas": 0,
+    "negativas": 1
+  },
+  "detalhes_votacao": [
+    "RSI (35.1): NEUTRO",
+    "MACD: VENDA",
+    "Medias: VENDA",
+    "Bollinger: NEUTRO"
+  ],
+  "timestamp": "2026-06-02T18:33:54.151301",
+  "tendencia_tecnica": "BAIXISTA"
+}

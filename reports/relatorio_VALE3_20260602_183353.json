@@ -1,0 +1,33 @@
+{
+  "ticker": "VALE3",
+  "recommendation": "COMPRAR",
+  "confidence": 0.35,
+  "reasoning": "Analise de VALE3: RSI em 56.5 (NEUTRO (entre 30 e 70)), MACD BULLISH - MACD acima do Signal, SEM TENDENCIA CLARA, noticias neutro (1 analisadas). Indicadores favoraveis para COMPRA.",
+  "score_final": 0.175,
+  "sentiment_score": 0.0,
+  "sentiment_label": "NEUTRO",
+  "indicators": {
+    "RSI": 56.49,
+    "RSI_interpretacao": "NEUTRO (entre 30 e 70)",
+    "MACD": "BULLISH - MACD acima do Signal",
+    "Medias_Moveis": "SEM TENDENCIA CLARA",
+    "Bollinger": "PRECO DENTRO DAS BANDAS",
+    "Volume": "NORMAL",
+    "Preco_Atual": 85.0,
+    "SMA_20": 82.68,
+    "SMA_50": 83.0
+  },
+  "news_summary": {
+    "total": 1,
+    "positivas": 0,
+    "negativas": 0
+  },
+  "detalhes_votacao": [
+    "RSI (56.5): NEUTRO",
+    "MACD: COMPRA",
+    "Medias: NEUTRO",
+    "Bollinger: NEUTRO"
+  ],
+  "timestamp": "2026-06-02T18:33:53.443020",
+  "tendencia_tecnica": "ALTISTA"
+}
