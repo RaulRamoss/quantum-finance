@@ -92,7 +92,7 @@ quantum_finance/
 ### 1. Clone o repositório (ou descompacte o zip)
 
 ```bash
-git clone https://github.com/seu-usuario/quantum-finance.git
+git clone https://github.com/RaulRamoss/quantum-finance.git
 cd quantum-finance
 ```
 
