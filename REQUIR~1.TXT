@@ -1,0 +1,47 @@
+# ============================================================
+# requirements.txt - Dependências do Projeto QuantumFinance
+# Aluno: FIAP - Pós Tech AI for Devs
+# ============================================================
+
+# --- Coleta de dados de mercado ---
+yfinance==0.2.36          # Dados históricos de ações (Yahoo Finance)
+
+# --- Coleta de notícias via RSS ---
+feedparser==6.0.11        # Leitura de feeds RSS de portais financeiros
+
+# --- Manipulação de dados ---
+pandas==2.1.4             # DataFrames para organizar os dados
+numpy==1.26.3             # Cálculos numéricos (médias, desvios, etc.)
+
+# --- Indicadores técnicos ---
+pandas-ta==0.3.14b        # Biblioteca com indicadores técnicos prontos
+
+# --- Análise de sentimento ---
+vaderSentiment==3.3.2     # VADER: análise de sentimento rápida e sem API
+transformers==4.37.0      # Para usar FinBERT (opcional, mais pesado)
+torch==2.1.2              # Backend do transformers (necessário pro FinBERT)
+
+# --- Framework de agentes ---
+langchain==0.1.9          # Framework principal de agentes LLM
+langchain-openai==0.0.6   # Integração com OpenAI (opcional)
+langgraph==0.0.26         # Para criar fluxo de agentes em grafo
+
+# --- Visualizações ---
+plotly==5.18.0            # Gráficos interativos (candlestick, indicadores)
+
+# --- Interface conversacional ---
+gradio==4.16.0            # Interface web simples para o chatbot
+
+# --- Utilitários gerais ---
+python-dotenv==1.0.0      # Carregar variáveis de ambiente (.env)
+requests==2.31.0          # Requisições HTTP
+beautifulsoup4==4.12.3    # Parse de HTML das notícias
+lxml==5.1.0               # Parser XML/HTML (usado pelo feedparser)
+
+# --- Notebook e visualizações extras ---
+jupyter==1.0.0            # Para rodar o notebook
+ipywidgets==8.1.1         # Widgets interativos no notebook
+matplotlib==3.8.2         # Gráficos básicos (usado internamente pelo pandas)
+
+# --- Backtest ---
+# Não usamos biblioteca externa, implementamos do zero pra ser mais didático

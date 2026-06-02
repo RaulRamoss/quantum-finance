@@ -1,0 +1,8 @@
+# Configurações opcionais do QuantumFinance
+# Renomeie este arquivo para .env e preencha suas chaves
+
+# OpenAI (opcional - só necessário pro modo conversacional com LLM)
+OPENAI_API_KEY=sua_chave_openai_aqui
+
+# Nível de log (DEBUG, INFO, WARNING, ERROR)
+LOG_LEVEL=INFO
