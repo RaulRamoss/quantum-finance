@@ -182,17 +182,3 @@ Funções registradas como ferramentas do agente LangChain:
 ```
 
 ---
-
-## 📉 Backtest
-
-O projeto inclui um backtest simples comparando a estratégia do agente com Buy & Hold:
-
-| Métrica          | Agente AI | Buy & Hold |
-|------------------|-----------|------------|
-| Retorno Total    | ~18%      | ~12%       |
-| Acerto (%)       | ~65%      | —          |
-| Sharpe Ratio     | 1.2       | 0.8        |
-
-> Resultados variam conforme o período analisado.
-
----
